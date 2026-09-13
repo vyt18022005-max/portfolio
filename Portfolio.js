@@ -27,43 +27,38 @@ const projects = {
 
         videos: [
     {
-        file: "Videos/video01.mp4",
+        file: "https://drive.google.com/file/d/19SOmPSdGp1eJvOj0swssCsy04ku-P8H5/preview",
         title: "Video truyền thông 01",
         description: "Video truyền thông và cung cấp thông tin."
     },
     {
-        file: "Videos/video02.mp4",
-        title: "Video truyền thông 02",
+file: "https://drive.google.com/file/d/1N9ndeYYBjwxrMYq2AGCTUIY9HfTgB9XJ/preview",        title: "Video truyền thông 02",
         description: "Video truyền thông và cung cấp thông tin."
     },
     {
-        file: "Videos/video03.mp4",
-        title: "Video truyền thông 03",
+file: "https://drive.google.com/file/d/1G1NQIbEtanMnkrzp5CSMxJM9CP-UNZH5/preview",        title: "Video truyền thông 03",
         description: "Video truyền thông và cung cấp thông tin."
     },
     {
-        file: "Videos/video04.mp4",
-        title: "Video truyền thông 04",
+file: "https://drive.google.com/file/d/1dsn7UK1aRu7AaKTVKDwGaKwgiEmt49xf/preview",        title: "Video truyền thông 04",
         description: "Video truyền thông và cung cấp thông tin."
     },
     {
-        file: "Videos/video05.mp4",
-        title: "Video truyền thông 05",
+file: "https://drive.google.com/file/d/1N9PTBrPgdIIUCkJT2Qc0lD-UpluIJRsl/preview",        title: "Video truyền thông 05",
         description: "Video truyền thông và cung cấp thông tin."
     },
     {
-        file: "Videos/video06.mp4",
-        title: "Video truyền thông 06",
+file: "https://drive.google.com/file/d/10O8Xnl6Brd4crvsQkZfeG5E5Bj2FekyM/preview", title: "Video truyền thông 06",
         description: "Video truyền thông và cung cấp thông tin."
     },
     {
-        file: "Videos/video07.mp4",
-        title: "Video truyền thông 07",
+file: "https://drive.google.com/file/d/1hS2NuJzR_uyFpbHLys4068S82RRE2VX7/preview",
+title: "Video truyền thông 07",
         description: "Video truyền thông và cung cấp thông tin."
     },
     {
-        file: "Videos/video08.mp4",
-        title: "Video truyền thông 08",
+file: "https://drive.google.com/file/d/1dgRNdKz01TcGmxDsBKTq3bTGpM7fSSig/preview",
+ title: "Video truyền thông 08",
         description: "Video truyền thông và cung cấp thông tin."
     },
  
@@ -90,27 +85,21 @@ const projects = {
         videos: [
 
             {
-                file: "Videos/video09.mp4",
-
-                title: "CaseStudy Recap",
+file: "https://drive.google.com/file/d/1kCkCS_FXiDcLGAVGkp9BFzKRBVI8Bxgl/preview",                title: "CaseStudy Recap",
 
                 description:
                     "Video recap chương trình CaseStudy Lab"
             },
 
             {
-                file: "Videos/video10.mp4",
-
-                title: "Storytelling Recap",
+file: "https://drive.google.com/file/d/1RKDfcnIGxmlEIDsJ_TwhpTa3Xa2P3vu3/preview",                title: "Storytelling Recap",
 
                 description:
                     "Video recap chương trình Storytelling."
             },
 
             {
-                file: "Videos/video11.mp4",
-
-                title: "Mentoring Recap",
+file: "https://drive.google.com/file/d/1wbjSFhdA2mQovsClDFrmQJtxb_ZcCNBT/preview",                title: "Mentoring Recap",
 
                 description:
                     "Video tổng kết Mentoring."
@@ -139,27 +128,21 @@ const projects = {
         videos: [
 
             {
-                file: "Videos/video12.mp4",
-
-                title: "AI Phân tích CV 01",
+file: "https://drive.google.com/file/d/1wbjSFhdA2mQovsClDFrmQJtxb_ZcCNBT/preview",                title: "AI Phân tích CV 01",
 
                 description:
                     "Video truyền thông cho chương trình AI Phân tích CV."
             },
 
             {
-                file: "Videos/video13.mp4",
-
-                title: "AI Phân tích CV 02",
+file: "https://drive.google.com/file/d/1j8GBMeq1gkSZ5U7tJKgyf6-iwdFcTIcI/preview",                title: "AI Phân tích CV 02",
 
                 description:
                     "Video truyền thông và giới thiệu tính năng của AI Phân tích CV."
             },
 
             {
-                file: "Videos/video14.mp4",
-
-                title: "AI Phân tích CV 03",
+file: "https://drive.google.com/file/d/1CMa4NmUjPY1LDz7T49ao36qk2zHRks0e/preview",                title: "AI Phân tích CV 03",
 
                 description:
                     "Intro cho chương trình AI Phân tích CV."
@@ -188,24 +171,21 @@ const projects = {
         videos: [
 
             {
-                file: "Videos/video15.mp4",
-
+file: "https://drive.google.com/file/d/1jGR9zvn4qjnVlClBQh9nHSvD8Q51Rtk3/preview",
                 title: "CapCut Template 01",
 
              description: "Sáng tạo template theo xu hướng mạng xã hội, tập trung vào hình ảnh và chuyển động để tăng khả năng thu hút người xem."
             },
 
             {
-                file: "Videos/video16.mp4",
-
+file: "https://drive.google.com/file/d/1xjH-IBttbOs4N1ZSDxRCp-bQkH6ZFCpx/preview",
                 title: "CapCut Template 02",
 
                 description: "Thiết kế và ứng dụng keyframe trên CapCut để tạo chuyển động mượt mà, tăng tính thu hút cho video."
             },
 
             {
-                file: "Videos/video17.mp4",
-
+file: "https://drive.google.com/file/d/1mhXyPbnorDwAZiKo3qCX1PcQ4YlGxtiU/preview",
                title: "CapCut Template 03",
 
            description: "Sản xuất nội dung ngắn theo xu hướng, kết hợp hình ảnh, âm thanh và nhịp dựng phù hợp với hành vi người xem."
@@ -300,150 +280,193 @@ function createVideoCard(video, index) {
         "video-card";
 
 
-    card.innerHTML = `
+    const isGoogleDrive =
+        video.file.includes(
+            "drive.google.com"
+        );
 
-        <div class="video-wrapper">
 
-            <video
-                controls
-                playsinline
-                preload="metadata"
-            >
+    if (isGoogleDrive) {
 
-                <source
+        card.innerHTML = `
+
+            <div class="video-wrapper">
+
+                <iframe
                     src="${video.file}"
-                    type="video/mp4"
+                    width="100%"
+                    height="100%"
+                    frameborder="0"
+                    allow="autoplay; fullscreen"
+                    allowfullscreen
+                    style="
+                        width: 100%;
+                        height: 100%;
+                        border: 0;
+                    "
+                ></iframe>
+
+            </div>
+
+
+            <div class="video-card-info">
+
+                <span>
+                    VIDEO ${String(index + 1).padStart(2, "0")}
+                </span>
+
+                <h3>
+                    ${video.title}
+                </h3>
+
+                <p>
+                    ${video.description}
+                </p>
+
+            </div>
+
+        `;
+
+    }
+
+    else {
+
+        card.innerHTML = `
+
+            <div class="video-wrapper">
+
+                <video
+                    controls
+                    playsinline
+                    preload="metadata"
                 >
 
-                Trình duyệt của bạn
-                không hỗ trợ phát video này.
+                    <source
+                        src="${video.file}"
+                        type="video/mp4"
+                    >
 
-            </video>
+                    Trình duyệt của bạn
+                    không hỗ trợ phát video này.
+
+                </video>
 
 
-            <div class="video-error">
+                <div class="video-error">
 
-                <div>
+                    <div>
 
-                    <strong>
-                        Không thể hiển thị video
-                    </strong>
+                        <strong>
+                            Không thể hiển thị video
+                        </strong>
 
-                    <br><br>
+                        <br><br>
 
-                    File đã được tìm thấy
-                    nhưng trình duyệt không thể
-                    giải mã video này.
+                        File đã được tìm thấy
+                        nhưng trình duyệt không thể
+                        giải mã video này.
 
-                    <br><br>
+                        <br><br>
 
-                    Hãy kiểm tra định dạng
-                    MP4 / H.264.
+                        Hãy kiểm tra định dạng
+                        MP4 / H.264.
+
+                    </div>
 
                 </div>
 
             </div>
 
-        </div>
+
+            <div class="video-card-info">
+
+                <span>
+                    VIDEO ${String(index + 1).padStart(2, "0")}
+                </span>
+
+                <h3>
+                    ${video.title}
+                </h3>
+
+                <p>
+                    ${video.description}
+                </p>
+
+            </div>
+
+        `;
 
 
-        <div class="video-card-info">
-
-            <span>
-                VIDEO ${String(index + 1).padStart(2, "0")}
-            </span>
-
-            <h3>
-                ${video.title}
-            </h3>
-
-            <p>
-                ${video.description}
-            </p>
-
-        </div>
-
-    `;
-
-
-    const videoElement =
-        card.querySelector(
-            "video"
-        );
-
-
-    const errorElement =
-        card.querySelector(
-            ".video-error"
-        );
-
-
-    /* =====================================================
-       VIDEO ERROR
-    ===================================================== */
-
-    videoElement.addEventListener(
-        "error",
-        function() {
-
-            errorElement.classList.add(
-                "show"
+        const videoElement =
+            card.querySelector(
+                "video"
             );
 
 
-            console.error(
-                "Không thể phát video:",
-                video.file
-            );
-
-        }
-    );
-
-
-    /* =====================================================
-       VIDEO METADATA
-    ===================================================== */
-
-    videoElement.addEventListener(
-        "loadedmetadata",
-        function() {
-
-            console.log(
-                "Video:",
-                video.file
+        const errorElement =
+            card.querySelector(
+                ".video-error"
             );
 
 
-            console.log(
-                "Width:",
-                videoElement.videoWidth
-            );
+        videoElement.addEventListener(
+            "error",
+            function() {
 
+                errorElement.classList.add(
+                    "show"
+                );
 
-            console.log(
-                "Height:",
-                videoElement.videoHeight
-            );
-
-
-            /* VIDEO DỌC */
-
-            if (
-                videoElement.videoHeight >
-                videoElement.videoWidth
-            ) {
-
-                videoElement.classList.add(
-                    "portrait-video"
+                console.error(
+                    "Không thể phát video:",
+                    video.file
                 );
 
             }
+        );
 
-        }
-    );
+
+        videoElement.addEventListener(
+            "loadedmetadata",
+            function() {
+
+                console.log(
+                    "Video:",
+                    video.file
+                );
+
+
+                console.log(
+                    "Width:",
+                    videoElement.videoWidth
+                );
+
+
+                console.log(
+                    "Height:",
+                    videoElement.videoHeight
+                );
+
+
+                if (
+                    videoElement.videoHeight >
+                    videoElement.videoWidth
+                ) {
+
+                    videoElement.classList.add(
+                        "portrait-video"
+                    );
+
+                }
+
+            }
+        );
+
+    }
 
 
     return card;
+
 }
 
 
